@@ -8,4 +8,4 @@ Not really advanced calculator
 
 Приложение может выполнять базовые операции, оперирует переменными double.
 
-http://prntscr.com/nk4w8n
+http://prntscr.com/nk4w8n.png
